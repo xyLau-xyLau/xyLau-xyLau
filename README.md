@@ -1,5 +1,4 @@
-- Ernesto Cárdenas Torres. 
-- Computer Science student at UNAM Facultad de Ciencias
+- xyLau
 - contact: xylau@ciencias.unam.mx
 
 <!---
